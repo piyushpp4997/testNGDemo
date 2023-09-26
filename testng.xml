@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Insurance">
+  <test thread-count="5" name="Health Insurance">
+    <classes>
+      <class name="Demo2.test2"/>
+      <class name="Demo1.test1"/>
+    </classes>
+  </test> <!-- Health Insurance -->
+</suite> <!-- Insurance -->
